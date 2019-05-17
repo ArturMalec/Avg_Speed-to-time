@@ -1,10 +1,3 @@
-/*
- * time.cpp
- *
- *  Created on: 15 paü 2018
- *      Author: Malcini
- */
-
 #include <iostream>
 #include <windows.h>
 float time(float, float);
